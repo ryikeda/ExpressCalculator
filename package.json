@@ -1,0 +1,14 @@
+{
+  "name": "express_calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express_calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rafael",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
